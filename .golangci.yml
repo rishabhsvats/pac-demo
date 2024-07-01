@@ -11,5 +11,4 @@ linters-settings:
     extra-rules: true
 linters:
   enable:
-    - forbidigo
     - unused
